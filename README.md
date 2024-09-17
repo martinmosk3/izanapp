@@ -1,6 +1,7 @@
 ## Agradecimientos a Pixabay
 
-Quiero expresar mi más sincero agradecimiento a **Pixabay** por proporcionar una plataforma extraordinaria que facilita el acceso a una vasta colección de imágenes, videos, sonidos y otros contenidos libres de regalías. <br>Gracias a Pixabay, he podido desarrollar una aplicación dedicada a ofrecer sonidos ambientales, utilizando recursos que han sido esenciales para crear una experiencia envolvente y única.<br><br>
+Quiero expresar mi más sincero agradecimiento a **Pixabay** por proporcionar una plataforma extraordinaria que facilita el acceso a una vasta colección de imágenes, videos, sonidos y otros contenidos libres de regalías. 
+<br><br>Gracias a Pixabay, he podido desarrollar una aplicación dedicada a ofrecer sonidos ambientales, utilizando recursos que han sido esenciales para crear una experiencia envolvente y única.<br><br>
 
 Pixabay es mucho más que un simple repositorio de contenido multimedia; es una comunidad vibrante de creadores que comparten su talento de manera desinteresada, permitiendo que desarrolladores y creativos de todo el mundo puedan acceder a recursos de alta calidad de manera gratuita. Esto ha sido crucial para el desarrollo de mi aplicación, ya que he podido integrar sonidos y fotografías de excelente calidad que enriquecen el producto final.<br><br>
 
