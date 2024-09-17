@@ -1,4 +1,4 @@
-<br><br>Agradecimientos a Pixabay
+Agradecimientos a Pixabay
 
 <br>Quiero expresar mi más sincero agradecimiento a **Pixabay** por proporcionar una plataforma extraordinaria que facilita el acceso a una vasta colección de imágenes, videos, sonidos y otros contenidos libres de regalías. 
 <br><br>Gracias a Pixabay, he podido desarrollar una aplicación dedicada a ofrecer sonidos ambientales, utilizando recursos que han sido esenciales para crear una experiencia envolvente y única.<br><br>
