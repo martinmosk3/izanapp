@@ -10,7 +10,7 @@ Agradezco enormemente que Pixabay haya simplificado el proceso de uso de su cont
 
 Por todo ello, quiero dar las gracias a los creadores y colaboradores de Pixabay, quienes, con su generosidad y talento, hacen posible que aplicaciones como la mía existan. Al brindar acceso a contenido de alta calidad, sin las barreras económicas habituales, Pixabay democratiza el proceso creativo, y estoy muy agradecido de ser parte de esta comunidad.<br><br>
 
-En conclusión, mi más profundo agradecimiento a <strong>Pixabay</strong> por ofrecer una plataforma accesible, con recursos libres de regalías y sin complicaciones legales. Gracias a su contribución, he podido desarrollar mi proyecto de una manera que, de otro modo, habría sido mucho más compleja y costosa. ¡Gracias Pixabay por ser un apoyo tan fundamental para los creadores alrededor del mundo!
+En conclusión, mi más profundo agradecimiento a <strong>Pixabay</strong> por ofrecer una plataforma accesible, con recursos libres de regalías y sin complicaciones legales. Gracias a su contribución, he podido desarrollar mi proyecto de una manera que, de otro modo, habría sido mucho más compleja y costosa. ¡Gracias Pixabay por ser un apoyo tan fundamental para los creadores alrededor del mundo!<br><br>
 
 
 
