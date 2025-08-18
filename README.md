@@ -1,4 +1,4 @@
- Agradecimientos a Pixabay<br><br>
+Agradecimientos a Pixabay<br><br>
 
 Quiero expresar mi más sincero agradecimiento a <strong>Pixabay</strong> por proporcionar una plataforma extraordinaria que facilita el acceso a una vasta colección de imágenes, videos, sonidos y otros contenidos libres de regalías. Gracias a Pixabay, he podido desarrollar una aplicación dedicada a ofrecer sonidos ambientales, utilizando recursos que han sido esenciales para crear una experiencia envolvente y única.<br><br>
 
@@ -11,6 +11,18 @@ Agradezco enormemente que Pixabay haya simplificado el proceso de uso de su cont
 Por todo ello, quiero dar las gracias a los creadores y colaboradores de Pixabay, quienes, con su generosidad y talento, hacen posible que aplicaciones como la mía existan. Al brindar acceso a contenido de alta calidad, sin las barreras económicas habituales, Pixabay democratiza el proceso creativo, y estoy muy agradecido de ser parte de esta comunidad.<br><br>
 
 En conclusión, mi más profundo agradecimiento a <strong>Pixabay</strong> por ofrecer una plataforma accesible, con recursos libres de regalías y sin complicaciones legales. Gracias a su contribución, he podido desarrollar mi proyecto de una manera que, de otro modo, habría sido mucho más compleja y costosa. ¡Gracias Pixabay por ser un apoyo tan fundamental para los creadores alrededor del mundo!<br><br>
+
+<hr>
+
+<strong>Licencia de Pixabay</strong><br><br>
+Los recursos utilizados en esta aplicación se encuentran bajo la 
+<a href="https://pixabay.com/service/license/" target="_blank">Licencia de Pixabay</a>, la cual permite:<br>
+- Uso gratuito para fines personales y comerciales.<br>
+- Modificación y adaptación de los recursos.<br>
+- No es necesaria la atribución al autor (aunque siempre es agradecida).<br><br>
+
+<strong>Restricción importante:</strong> no está permitido vender ni redistribuir los archivos de Pixabay como contenido independiente (<em>standalone</em>). En esta aplicación, los recursos de Pixabay se utilizan únicamente <strong>integrados en la experiencia de la app</strong>, nunca como descargas individuales.<br><br>
+
 
 
 
