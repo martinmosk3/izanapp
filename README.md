@@ -15,11 +15,21 @@ En conclusión, mi más profundo agradecimiento a <strong>Pixabay</strong> por o
 <hr>
 
 <strong>Licencia de Pixabay</strong><br><br>
-Los recursos utilizados en esta aplicación se encuentran bajo la 
-<a href="https://pixabay.com/service/license/" target="_blank">Licencia de Pixabay</a>, la cual permite:<br>
-- Uso gratuito para fines personales y comerciales.<br>
-- Modificación y adaptación de los recursos.<br>
-- No es necesaria la atribución al autor (aunque siempre es agradecida).<br><br>
+Los recursos de audio e imagen utilizados en esta aplicación se encuentran bajo la 
+<a href="https://pixabay.com/service/terms/" target="_blank">Licencia de Contenido de Pixabay</a>. 
+Esta licencia otorga un derecho irrevocable, mundial, perpetuo, no exclusivo y libre de regalías para 
+usar, copiar, modificar o adaptar el contenido con fines comerciales o no comerciales.<br><br>
+
+<strong>Prohibiciones:</strong><br>
+- No está permitido vender ni distribuir el contenido de Pixabay en forma independiente ("standalone").<br>
+- No se puede utilizar contenido con logotipos o marcas reconocibles en productos comerciales.<br>
+- No se puede usar el contenido en contextos ilegales, engañosos, ofensivos, políticos o en violación de derechos de terceros.<br>
+- No se puede registrar ningún contenido de Pixabay como marca, logotipo o diseño exclusivo.<br><br>
+
+En esta aplicación, todos los recursos de Pixabay se utilizan únicamente 
+<strong>integrados en la experiencia de la app</strong>, nunca como descargas individuales.
+
+
 
 <strong>Restricción importante:</strong> no está permitido vender ni redistribuir los archivos de Pixabay como contenido independiente (<em>standalone</em>). En esta aplicación, los recursos de Pixabay se utilizan únicamente <strong>integrados en la experiencia de la app</strong>, nunca como descargas individuales.<br><br>
 
