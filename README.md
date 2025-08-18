@@ -26,8 +26,7 @@ usar, copiar, modificar o adaptar el contenido con fines comerciales o no comerc
 - No se puede usar el contenido en contextos ilegales, engañosos, ofensivos, políticos o en violación de derechos de terceros.<br>
 - No se puede registrar ningún contenido de Pixabay como marca, logotipo o diseño exclusivo.<br><br>
 
-En esta aplicación, todos los recursos de Pixabay se utilizan únicamente 
-<strong>integrados en la experiencia de la app</strong>, nunca como descargas individuales.
+
 
 
 
